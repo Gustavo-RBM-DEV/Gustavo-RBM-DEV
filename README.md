@@ -1,4 +1,5 @@
-## 
+## Olá! 👋 Eu sou o Gustavo Rodrigues Barbara Moreira
+Estudante de Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais | PUC-MG
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-RBM-DEV&show_icons=true&theme=github_dark)
